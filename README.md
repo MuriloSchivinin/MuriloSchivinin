@@ -27,7 +27,9 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloSchivinin&show_icons=true&theme=highcontrast)
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuriloSchivinin&show_icons=true&theme=highcontrast" alt="muriloschivinin"/> 
+</p>  
 
 <br>
 
