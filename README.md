@@ -1,6 +1,6 @@
 # Hi, I'm Murilo Schivinin
 
-- I'm Brazilian, I'm 21 years old.
+- I'm Brazilian, 21 years old.
 
 - :computer: I have been a systems analyst for 3 years and a SQL developer for 1 year. I work with database integrations, with SQL SERVER, ORACLE, MY SQL, WEB SERVICES and API's with the main systems of the market, SAP, TOTVS and Thomsom Reuters systems.
 
@@ -24,6 +24,12 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="sqlserver" height="60" width="60"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="sqlserver" height="60" width="60"/>
 </p>
+
+<br>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloSchivinin&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloSchivinin&layout=compact)](https://github.com/MuriloSchivinin/github-readme-stats)
 
 <br>
 
