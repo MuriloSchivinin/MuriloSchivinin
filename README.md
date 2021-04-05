@@ -12,7 +12,7 @@ I found myself obliged to learn a little more, today I am following a developmen
 
 <p align="center">
 <a href="https://codepen.io/MuriloSchivinin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="muriloschivinin" height="30" width="30" /></a>
-<a href="http://linkedin.com/in/murilo-schivinin-742746196" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muriloschivinin" height="30" width="30" /></a>
-<a href="https://www.facebook.com/murilo.schivinin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="muriloschivinin" height="30" width="30" /></a>
-<a href="https://www.instagram.com/muriloschivinin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="muriloschivinin" height="30" width="30" /></a>
+<a href="http://linkedin.com/in/murilo-schivinin-742746196" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muriloschivinin" height="30" width="30" /></a>
+<a href="https://www.facebook.com/murilo.schivinin" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="muriloschivinin" height="30" width="30" /></a>
+<a href="https://www.instagram.com/muriloschivinin/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="muriloschivinin" height="30" width="30" /></a>
 </p>
