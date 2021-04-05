@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Murilo Schivinin
 
-<!--
-**MuriloSchivinin/MuriloSchivinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have been a systems analyst for 3 years and a SQL developer for 1 year. I work with database integrations, with SQL SERVER, ORACLE, MY SQL, WEB SERVICES and API's with the main systems of the market, SAP, TOTVS and Thomsom Reuters systems.
 
-Here are some ideas to get you started:
+I found myself obliged to learn a little more, today I am following a development teaching path, focused on Back-End with JavaScript and NodeJs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MuriloSchivinin&show_icons=true" alt="maykbrito"/> 
+</p>
+
+<br>
+
+<p align="center">
+<a href="https://codepen.io/MuriloSchivinin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="muriloschivinin" height="30" width="30" /></a>
+<a href="http://linkedin.com/in/murilo-schivinin-742746196" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muriloschivinin" height="30" width="30" /></a>
+<a href="https://www.facebook.com/murilo.schivinin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="muriloschivinin" height="30" width="30" /></a>
+<a href="https://www.instagram.com/muriloschivinin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="muriloschivinin" height="30" width="30" /></a>
+</p>
