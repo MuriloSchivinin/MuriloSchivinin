@@ -5,7 +5,7 @@ I have been a systems analyst for 3 years and a SQL developer for 1 year. I work
 I found myself obliged to learn a little more, today I am following a development teaching path, focused on Back-End with JavaScript and NodeJs.
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MuriloSchivinin&show_icons=true" alt="maykbrito"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=MuriloSchivinin&show_icons=true" alt="muriloschivinin"/> 
 </p>
 
 <br>
