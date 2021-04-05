@@ -10,7 +10,7 @@
 
 <br>
 
-<h3 align="center"> My skills </h3>
+<h3 align="center"> MY SKILLS </h3>
 <p align="center">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" height="60" width="60"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="sqlserver" height="60" width="60"/>
@@ -19,7 +19,7 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="sqlserver" height="60" width="60"/>
 </p>
 
-<h3 align="center"> In study </h3>
+<h3 align="center"> IN SYUDY </h3>
 <p align="center">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="sqlserver" height="60" width="60"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="sqlserver" height="60" width="60"/>
@@ -33,7 +33,7 @@
 
 <br>
 
-<h3 align="center"> My Social Networks </h3>
+<h3 align="center"> MY SOCIAL NETWORKS </h3>
 <hr>
 <p align="center">
 <a href="https://codepen.io/MuriloSchivinin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="muriloschivinin" height="40" width="40" /></a>
