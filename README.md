@@ -1,13 +1,17 @@
-# Hi, I'm Murilo Schivinin
+# Olá, eu sou o Murilo Schivinin
 
-- I'm Brazilian, 21 years old.
+- Nasci em 05.07.1999 na cidade de Colina-SP, atualmente morando em Barretos-SP. 
+- Moro com a minha namorada Érika Gomes e com nosso filho de 4 patas Potter 🐶
 
-- :computer: I have been a systems analyst for 3 years and a SQL developer for 1 year. I work with database integrations, with SQL SERVER, ORACLE, MY SQL, WEB SERVICES and API's with the main systems of the market, SAP, TOTVS and Thomsom Reuters systems.
+- Sou formado em Engenharia Civil pelo Centro Univertário UNIFAFIBE. Porém estou desde 2018 trabalhando com tecnologia na Minerva Foods, onde no momento estou na posição de Analista de Sistemas Senior.
 
-- :man_student: I found myself obliged to learn a little more, today I am following a development teaching path, focused on Back-End with JavaScript and NodeJs.
+- Minhas funções hoje na empresa são:
+- :woman_technologist: Desenvolvimento e Manutenção de códigos SQL para Integração de Dados entre Sistemas (SQL Server, Oracle e MySql).
+- :woman_technologist: Debugs e pequenos desenvolvimentos em rotinas ABAP.
+- :woman_technologist: Gestão dos sistemas de Importação da empresa (Sistemas da Thomson Reuters)
+- :woman_technologist: Desenvolvimento de APIs REST para integração com sistemas terceiros.
 
-- :woman_technologist:  I really want to grow, so I struggle daily to obtain new learning and new results, I hope I can contribute with several publications here.
-
+- ⏳🔢 Estudando para me tornar um Engenheiro de Dados, área que me chama atenção por vários fatores, e dentro deles, a minha função atual que está diretamente ligada com a área e também a minha formação como Engenheiro.
 <br>
 
 <h3 align="center"> MY SKILLS </h3>
@@ -15,14 +19,14 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" height="60" width="60"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="sqlserver" height="60" width="60"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sqlserver" height="60" width="60"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="sqlserver" height="60" width="60"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="sqlserver" height="60" width="60"/>
 </p>
 
 <h3 align="center"> IN SYUDY </h3>
 <p align="center">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="sqlserver" height="60" width="60"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="sqlserver" height="60" width="60"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="sqlserver" height="60" width="60"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="sqlserver" height="60" width="60"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="sqlserver" height="60" width="60"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="sqlserver" height="60" width="60"/>  
 </p>
 
 <br>
